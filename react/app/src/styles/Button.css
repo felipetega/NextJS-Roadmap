@@ -1,0 +1,9 @@
+button{
+    width: 100px;
+    height: 100px;
+    border-radius: 20%;
+    border-width: 5px;
+    border-color: darkmagenta;
+    font-size: 30px;
+
+}
